@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "electronics"
+version = "0.1.0"
+description = ""
+authors = ["balobinp <balobin.p@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+sphinx = "^8.1.3"
+sphinxcontrib-spelling = "^8.0.1"
+sphinx-copybutton = "^0.5.2"
+sphinx-rtd-theme = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

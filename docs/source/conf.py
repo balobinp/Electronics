@@ -9,7 +9,7 @@
 import sphinx_rtd_theme
 
 project = 'Electronics'
-copyright = '2025, Pavel Balobin'
+copyright = '2025, Pavel Balobin, balobin.p@mail.ru'
 author = 'Pavel Balobin'
 
 # -- General configuration ---------------------------------------------------

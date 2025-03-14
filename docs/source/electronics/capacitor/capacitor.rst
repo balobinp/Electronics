@@ -141,10 +141,9 @@
 Треугольный сигнал
 ^^^^^^^^^^^^^^^^^^
 
-С генератора (Gen1) подается треугольный сигнал.
-
-- Частота: 50 Гц
-- Амплитуда: -2 В - +2 В
+С генератора (Gen1) подается треугольный сигнал:
+    - Частота: 50 Гц
+    - Амплитуда: -2 В - +2 В
 
 .. figure:: images/capacitor_003_f050_gen.png
    :align: center
@@ -172,13 +171,12 @@
 
    Падение напряжения на конденсаторе C1
 
-- :download:`Интерактивный график в формате html <docs/measurements_f050.html>`
-- :download:`Измерения в формате csv для 50 Гц <docs/measurements_f050.csv>`
+- :download:`Интерактивный график для 50 Гц в формате html <docs/measurements_triangle_f050.html>`
+- :download:`Измерения в формате csv для 50 Гц <docs/measurements_triangle_f050.csv>`
 
-С генератора (Gen1) подается треугольный сигнал.
-
-- Частота: 300 Гц
-- Амплитуда: -2 В - +2 В
+С генератора (Gen1) подается треугольный сигнал:
+    - Частота: 300 Гц
+    - Амплитуда: -2 В - +2 В
 
 .. figure:: images/capacitor_006_f300_gen.png
    :align: center
@@ -198,8 +196,8 @@
 
    Падение напряжения на конденсаторе C1
 
-- :download:`Интерактивный график в формате html <docs/measurements_f300.html>`
-- :download:`Измерения в формате csv для 50 Гц <docs/measurements_f300.csv>`
+- :download:`Интерактивный график для 300 Гц в формате html <docs/measurements_triangle_f300.html>`
+- :download:`Измерения в формате csv для 300 Гц <docs/measurements_triangle_f300.csv>`
 
 Выводы
 ------

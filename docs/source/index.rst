@@ -7,4 +7,5 @@
    :caption: Содержание:
 
    electronics/capacitor/capacitor
+   electronics/diode/diode
    electronics/mosfet/mosfet

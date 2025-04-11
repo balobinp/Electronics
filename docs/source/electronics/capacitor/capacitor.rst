@@ -330,6 +330,7 @@
 #. `How does the integrating and differentiating RC-circuit, Д.Забарило`_
 #. `A capacitors voltage divider, Д.Забарило`_
 #. `Учимся читать электрические схемы с конденсаторами, Д.Забарило`_
+#. `Переходные процессы в простейшей RC-цепи`_
 
 .. _Электроника для начинающих, Д.Забарило: https://diodov.net/elektronika-dlya-nachinayushhih/
 .. _CAPACITORS, Д.Забарило: https://www.youtube.com/watch?v=MgrxJsI3Imk
@@ -337,3 +338,4 @@
 .. _How does the integrating and differentiating RC-circuit, Д.Забарило: https://www.youtube.com/watch?v=CVb7OWoLhWk
 .. _A capacitors voltage divider, Д.Забарило: https://www.youtube.com/watch?v=wNwYNlvFsi8
 .. _Учимся читать электрические схемы с конденсаторами, Д.Забарило: https://www.youtube.com/watch?v=Bjio-jXVH6M
+.. _Переходные процессы в простейшей RC-цепи: https://eelib.narod.ru/toe/Novg_2.01/15/Ct15-2.htm

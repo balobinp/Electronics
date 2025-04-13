@@ -88,6 +88,8 @@ References
 
 #. `STM32CubeMx. Быстрый старт с FreeRTOS для STM32`_
 #. `Лекция-практикум "SM32CubeIDE + FreeRTOS`_
+#. `STM32 - программирование для начинающих. Пошагово. CubeMX CubeIDE`_
 
 .. _STM32CubeMx. Быстрый старт с FreeRTOS для STM32: https://microtechnics.ru/stm32cubemx-bystryj-start-s-freertos-dlya-stm32/
 .. _Лекция-практикум "SM32CubeIDE + FreeRTOS: https://www.youtube.com/watch?v=JKkyF53AAM4
+.. _STM32 - программирование для начинающих. Пошагово. CubeMX CubeIDE: https://www.youtube.com/watch?app=desktop&v=fxAsY0S2Xa0

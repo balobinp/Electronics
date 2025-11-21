@@ -16,7 +16,9 @@
    electronics/capacitor/capacitor
    electronics/inductance/inductance
    electronics/diode/diode
+   electronics/bipolar/bipolar
    electronics/mosfet/mosfet
+   electronics/comparator/comparator
 
 .. toctree::
    :maxdepth: 2

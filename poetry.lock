@@ -3016,6 +3016,21 @@ code-style = ["pre-commit (==2.12.1)"]
 rtd = ["ipython", "myst-nb", "sphinx", "sphinx-book-theme", "sphinx-examples"]
 
 [[package]]
+name = "sphinx-last-updated-by-git"
+version = "0.3.8"
+description = "Get the \"last updated\" time for each Sphinx page from Git"
+optional = false
+python-versions = ">=3.7"
+groups = ["main"]
+files = [
+    {file = "sphinx_last_updated_by_git-0.3.8-py3-none-any.whl", hash = "sha256:6382c8285ac1f222483a58569b78c0371af5e55f7fbf9c01e5e8a72d6fdfa499"},
+    {file = "sphinx_last_updated_by_git-0.3.8.tar.gz", hash = "sha256:c145011f4609d841805b69a9300099fc02fed8f5bb9e5bcef77d97aea97b7761"},
+]
+
+[package.dependencies]
+sphinx = ">=1.8"
+
+[[package]]
 name = "sphinx-rtd-theme"
 version = "3.0.2"
 description = "Read the Docs theme for Sphinx"
@@ -3034,6 +3049,24 @@ sphinxcontrib-jquery = ">=4,<5"
 
 [package.extras]
 dev = ["bump2version", "transifex-client", "twine", "wheel"]
+
+[[package]]
+name = "sphinx-sitemap"
+version = "2.9.0"
+description = "Sitemap generator for Sphinx"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "sphinx_sitemap-2.9.0-py3-none-any.whl", hash = "sha256:f1f1d3a9ad012ba17a7ef0b560d303bff2d0db26647567d6e810bcc754466664"},
+    {file = "sphinx_sitemap-2.9.0.tar.gz", hash = "sha256:70f97bcdf444e3d68e118355cf82a1f54c4d3c03d651cd17fe87398b26e25e21"},
+]
+
+[package.dependencies]
+sphinx-last-updated-by-git = "*"
+
+[package.extras]
+dev = ["build", "flake8", "pre-commit", "pytest", "sphinx", "sphinx-last-updated-by-git", "tox"]
 
 [[package]]
 name = "sphinxcontrib-applehelp"
@@ -3446,4 +3479,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.11"
-content-hash = "62268bfd46f66d94209ca05d4f7ed5d227456d011470261852265cf3f10476b7"
+content-hash = "48818abb1bce8b99068386001e3ac426cd74f1747ba7d015c9bcd536f347d979"

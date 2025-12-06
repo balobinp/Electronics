@@ -18,6 +18,7 @@ author = 'Pavel Balobin'
 extensions = [
     'sphinxcontrib.spelling',
     'sphinx_copybutton',
+    'sphinx_sitemap',
 ]
 
 templates_path = ['_templates']
@@ -35,3 +36,5 @@ html_show_sourcelink = False
 
 spelling_word_list_filename='spelling_wordlist.txt'
 spelling_exclude_patterns=['ignored_*']
+
+html_baseurl = 'http://localhost:8000/build/html/index.html'

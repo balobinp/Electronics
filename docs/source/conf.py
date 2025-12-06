@@ -37,4 +37,5 @@ html_show_sourcelink = False
 spelling_word_list_filename='spelling_wordlist.txt'
 spelling_exclude_patterns=['ignored_*']
 
-html_baseurl = 'http://localhost:8000/build/html/index.html'
+sitemap_url_scheme = "{link}"
+html_baseurl = 'https://electronicsmicrocontrollers.readthedocs.io/en/latest/'

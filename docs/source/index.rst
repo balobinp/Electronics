@@ -19,6 +19,7 @@
    electronics/bipolar/bipolar
    electronics/mosfet/mosfet
    electronics/comparator/comparator
+   electronics/load/load
 
 .. toctree::
    :maxdepth: 2
@@ -26,3 +27,10 @@
    :caption: Микроконтроллеры
 
    microcontrollers/stmfreertos/stmfreertos
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   :caption: Оборудование
+
+   equipment/hantek6254bd/hantek6254bd

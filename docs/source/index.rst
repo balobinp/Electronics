@@ -34,3 +34,4 @@
    :caption: Оборудование
 
    equipment/hantek6254bd/hantek6254bd
+   equipment/utg962e/utg962e

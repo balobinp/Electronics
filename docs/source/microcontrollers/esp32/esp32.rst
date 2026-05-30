@@ -33,7 +33,7 @@ ESP32-S3 vs MicroPython
     It was connected to the right port (near pin 19).
     Make sure the board is detected.
 
-    .. figure:: images/com3.png
+    .. figure:: images/com.png
        :width: 350px
        :align: center
 

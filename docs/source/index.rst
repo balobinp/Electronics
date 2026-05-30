@@ -27,6 +27,7 @@
    :caption: Микроконтроллеры
 
    microcontrollers/stmfreertos/stmfreertos
+   microcontrollers/esp32/esp32
 
 .. toctree::
    :maxdepth: 2

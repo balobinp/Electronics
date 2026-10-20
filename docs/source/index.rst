@@ -20,6 +20,8 @@
    electronics/mosfet/mosfet
    electronics/comparator/comparator
    electronics/load/load
+   electronics/loademrelay/loademrelay
+   electronics/loadtemplate/loadtemplate
 
 .. toctree::
    :maxdepth: 2

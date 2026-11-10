@@ -21,6 +21,7 @@
    electronics/comparator/comparator
    electronics/load/load
    electronics/loademrelay/loademrelay
+   electronics/loadbipolar/loadbipolar
    electronics/loadtemplate/loadtemplate
 
 .. toctree::

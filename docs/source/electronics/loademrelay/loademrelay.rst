@@ -41,9 +41,10 @@
 - сравнительно большие размеры;
 - возникновение помех при переключении;
 - высокое энергопотребление катушки.
+- дополнительное энергопотребление управляющей схемы.
 
-Исследуемый компонент
----------------------
+Исследуемый элемент
+-------------------
 
 Релейный модуль в сборе на плате с управлением биполярным транзистором
 p-n-p типа и электромеханическим реле Tongling 5VDC JQC-3FF-S-Z.
@@ -254,7 +255,7 @@ p-n-p типа и электромеханическим реле Tongling 5VDC 
 
 .. _Google: https://www.Google.com
 
-#. `ElectronicsClub, Relay | The principle of operation of the relay in the examples`_
+2. `ElectronicsClub, Relay | The principle of operation of the relay in the examples`_
 #. `EasyEDA`_
 #. `ElectronicsClub, Inductors from A to Z How They Really Work`_
 

@@ -12,12 +12,12 @@ sphinxcontrib-spelling = "^8.0.2"
 sphinx-copybutton = "^0.5.2"
 sphinx-rtd-theme = "^3.1.0"
 sphinx-sitemap = "^2.9.0"
+hvplot = "^0.13.0"
 
 
 [tool.poetry.group.dev.dependencies]
 jupyterlab = "^4.6.4"
 jupyterlab-execute-time = "^3.3.0"
-hvplot = "^0.12.2"
 polars = "^2.0.0"
 pyarrow = "^26.0.0"
 tabulate = "^0.10.0"

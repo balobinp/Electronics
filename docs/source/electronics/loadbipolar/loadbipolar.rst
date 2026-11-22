@@ -273,9 +273,7 @@
 
 .. _Google: https://www.Google.com
 
-2. :ref:`rst_electronics_bipolar_bipolar` — предыдущая работа с 2N5551.
-#. :ref:`rst_electronics_load_load` — общая постановка исследования.
-#. :ref:`rst_electronics_loademrelay_loademrelay` — управление нагрузкой через реле.
+2. :ref:`rst_electronics_bipolar_bipolar`
 #. `Документация onsemi на 2N5551`_
 #. `EasyEDA`_
 

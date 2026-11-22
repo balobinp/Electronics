@@ -22,6 +22,7 @@
    electronics/load/load
    electronics/loademrelay/loademrelay
    electronics/loadreed/loadreed
+   electronics/loadoptocoupler/loadoptocoupler
    electronics/loadbipolar/loadbipolar
    electronics/loadtemplate/loadtemplate
 

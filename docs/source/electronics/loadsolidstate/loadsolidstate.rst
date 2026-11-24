@@ -115,12 +115,11 @@
 
 Предлагается опыт с резистивной нагрузкой при питании 5 В.
 
-Схема соединений (реле в нижнем плече)::
+.. figure:: images/loadsolidstate_02.png
+   :width: 60%
+   :align: center
 
-    GEN ── Rin 300 Ом ── 1 (анод)
-    GND ──────────────── 2 (катод)
-
-    +5 В ── RN 100 Ом ── OUT ── 4 [выход G3VM-351A] 3 ── GND
+   Схема подключения OMRON G3VM-351A к измерительному оборудованию
 
 Состав стенда:
 
@@ -283,7 +282,9 @@ OUT возвращается к 5 В, а ток нагрузки уменьша�
 #. `Обзор твердотельных реле OMRON`_
 #. `Основы MOSFET-реле OMRON`_
 #. `ElectronicsClub, Твердотельное реле | Простыми словами с примерами и расчетом`_
+#. `EasyEDA`_
 
+.. _EasyEDA: https://easyeda.com/
 .. _ElectronicsClub, Твердотельное реле | Простыми словами с примерами и расчетом: https://www.youtube.com/watch?v=1YAvGxe2YHA
 .. _Документация OMRON на G3VM-351A/D: https://omronfs.omron.com/en_US/ecb/products/pdf/en-g3vm_351a_d.pdf
 .. _Обзор твердотельных реле OMRON: https://www.ia.omron.com/support/guide/18/overview.html

@@ -7,12 +7,13 @@
 1. "Управление нагрузкой - ЭМ Реле". [loademrelay.rst](docs/source/electronics/loademrelay/loademrelay.rst)
 2. "Управление нагрузкой - Биполярный транзистор" [loadbipolar.rst](docs/source/electronics/loadbipolar/loadbipolar.rst)
 2. "Управление нагрузкой - Геркон" [loadloadreed.rst](docs/source/electronics/loadreed/loadreed.rst)
+3. "Управление нагрузкой - Оптопара" [loadloadreed.rst](docs/source/electronics/loadoptocoupler/loadoptocoupler.rst)
 
-Следующая тема "Управление нагрузкой - Оптопара"
+Следующая тема "Управление нагрузкой - Твердотельное реле"
 Я подготовил шаблон:
-[loadoptocoupler.rst](docs/source/electronics/loadoptocoupler/loadoptocoupler.rst)
+[loadsolidstate.rst](docs/source/electronics/loadsolidstate/loadsolidstate.rst)
 
-Исследуемый элемент - Оптопара SFH6345 DIP8 Vishay.
+Исследуемый элемент - Omron MOSFET Relay G3VM-351A.
 
 Мне нужно чтобы ты заполнил контент этой страницы.
 Графики заполнить не надо. Я их сделаю по результатам измерений и добавлю позже.
